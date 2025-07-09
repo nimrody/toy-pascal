@@ -5,7 +5,7 @@ import (
 	"io/ioutil"
 	"os"
 
-	"nimrody.com/toypascal/v2/asm/isa"
+	"nimrody.com/toypascal/v2/assembler/isa"
 )
 
 // Disassemble reads bytecode and prints the assembly instructions.

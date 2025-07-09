@@ -8,7 +8,7 @@ import (
 	"strconv"
 	"strings"
 
-	"nimrody.com/toypascal/v2/asm/isa"
+	"nimrody.com/toypascal/v2/assembler/isa"
 )
 
 // Assemble reads an assembly file and converts it to bytecode.
